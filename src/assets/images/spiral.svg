@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="282" height="574" viewBox="0 0 282 574">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1536" data-name="Rectangle 1536" width="282" height="574" transform="translate(1158 128)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_104" data-name="Mask Group 104" transform="translate(-1158 -128)" clip-path="url(#clip-path)">
+    <g id="Group_474" data-name="Group 474" transform="translate(1160.965 135.965)">
+      <g id="circles">
+        <g id="circles-2" data-name="circles" transform="translate(0.035 0.035)" fill="none" stroke="rgba(114,114,114,0.65)" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10">
+          <circle cx="279" cy="279" r="279" stroke="none"/>
+          <circle cx="279" cy="279" r="278.5" fill="none"/>
+        </g>
+        <g id="circles-3" data-name="circles" transform="translate(56.158 56.597)" fill="none" stroke="rgba(114,114,114,0.22)" stroke-miterlimit="10" stroke-width="1">
+          <circle cx="222.657" cy="222.657" r="222.657" stroke="none"/>
+          <circle cx="222.657" cy="222.657" r="222.157" fill="none"/>
+        </g>
+        <g id="circles-4" data-name="circles" transform="translate(110.561 110.561)" fill="none" stroke="rgba(114,114,114,0.5)" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="10">
+          <circle cx="168.474" cy="168.474" r="168.474" stroke="none"/>
+          <circle cx="168.474" cy="168.474" r="167.974" fill="none"/>
+        </g>
+        <g id="circles-5" data-name="circles" transform="translate(154.873 155.312)" fill="none" stroke="rgba(114,114,114,0.31)" stroke-miterlimit="10" stroke-width="1">
+          <circle cx="123.942" cy="123.942" r="123.942" stroke="none"/>
+          <circle cx="123.942" cy="123.942" r="123.442" fill="none"/>
+        </g>
+        <g id="element" transform="translate(226.634 105.457)">
+          <g id="bg">
+            <g id="bg-2" data-name="bg" transform="translate(0.401 -0.422)" fill="#f7931a" stroke="rgba(243,186,47,0.22)" stroke-miterlimit="10" stroke-width="10">
+              <ellipse cx="11" cy="11.5" rx="11" ry="11.5" stroke="none"/>
+              <ellipse cx="11" cy="11.5" rx="16" ry="16.5" fill="none"/>
+            </g>
+            <ellipse id="bg-3" data-name="bg" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(0.401 -0.422)" fill="none" stroke="rgba(247,147,26,0.38)" stroke-miterlimit="10" stroke-width="10"/>
+          </g>
+        </g>
+        <g id="element-2" data-name="element" transform="translate(109.387 499.118)">
+          <g id="bg-4" data-name="bg">
+            <g id="bg-5" data-name="bg" transform="translate(-0.352 -0.084)" fill="#00c3b7" stroke="rgba(10,174,167,0.18)" stroke-miterlimit="10" stroke-width="10">
+              <ellipse cx="11.5" cy="11" rx="11.5" ry="11" stroke="none"/>
+              <ellipse cx="11.5" cy="11" rx="16.5" ry="16" fill="none"/>
+            </g>
+            <ellipse id="bg-6" data-name="bg" cx="11.5" cy="11" rx="11.5" ry="11" transform="translate(-0.352 -0.084)" fill="none" stroke="rgba(10,174,167,0.31)" stroke-miterlimit="10" stroke-width="10"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
